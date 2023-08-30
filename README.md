@@ -10,8 +10,11 @@
   - 주가예측값 : 파동의 법칙에 따른 지난 1년치값의 대칭값을 평균값과 비교하는 방식으로 예측
    ![image](https://github.com/fkrckdzkdl/spark_stock_expect/assets/91944913/09204bd9-0945-4de3-8ead-5aa8f0d67fbf)
    ![image](https://github.com/fkrckdzkdl/spark_stock_expect/assets/91944913/75843c2d-3258-410c-8659-5556b9ad297c)
+
 4. logstash를 사용하여 생성한 데이터를 elasticsearch로 input
+   
 ![image](https://github.com/fkrckdzkdl/spark_stock_expect/assets/91944913/a842233a-9164-4761-9006-16dcd1629dc4)
+
 5. kibana를 통해 데이터를 시각화
 - 지난 1년 종가 
 ![image](https://github.com/fkrckdzkdl/spark_stock_expect/assets/91944913/5e26625e-8b0e-4de9-85d1-600043211977)
