@@ -21,3 +21,13 @@
 
 - 예측값
  ![image](https://github.com/fkrckdzkdl/spark_stock_expect/assets/91944913/eb28661f-120a-436a-b8c2-2018b75c2f82)
+
+
+
+# 사용한 스킬
+- pyspark
+- pandas
+- Jupyter notebook
+- ElasticSearch
+- Logstash
+- Kibana
