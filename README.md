@@ -1,4 +1,4 @@
-# spark_stock_expect
+# spark_stock_expect - ELK Stack
 현재 날짜를 기준으로 1년 간의 주가를 예측 해보는 프로그램
 
 1. yfinance 라이브러리를 통해 원하는 주식의 최근 1년치 데이터를 csv 형식으로 받아온다.
